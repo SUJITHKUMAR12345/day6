@@ -1,1 +1,2 @@
 E-commerce Website Using HTML, CSS, and JavaScript with Code. This is a Simple E-commerce Website that has a Product slider with images, a Product section with Product Card, and all the necessary features that E-commerce websites have.
+thankyou
